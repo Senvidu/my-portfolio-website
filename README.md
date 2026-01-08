@@ -1,4 +1,4 @@
-# Chanithu's Portfolio
+# My Portfolio Website
 
 A modern, responsive portfolio website built with **React** and **Vite**, showcasing my experience, projects, and technical expertise as a Computer Science undergraduate and backend-focused developer.
 
